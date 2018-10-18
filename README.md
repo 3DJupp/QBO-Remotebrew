@@ -1,5 +1,7 @@
-# This is my Home-Assistant configuration
+# Controlling an IOT enabled Coffeemaker
 
-Here, a biref description of my HASS configuration and setup
+Inspired by michaelhenningersrb I decided to get in touch with QBO, a coffeemachine equiped with WiFi, Voice and App control.
 
 **[ >>> Go forward to the repos wiki <<< ]( https://github.com/michaelhenningersrb/home-assistant-config/wiki )**
+
+The machine will listen on port 443, using untrusted certificates
