@@ -1,0 +1,22 @@
+{
+      "uid": "00000000-0000-0000-0000-000000000002",
+      "creatorId": "22",
+      "userId": "33",
+      "userName": "smarthome",
+      "name": "Kaffee",
+      "coffeeAmount": 170,
+      "foamAmount": 0,
+      "milkAmount": 0,
+      "cupSize": 200,
+      "creationTimestamp": 15,
+      "defaultRecipe": 0,
+      "usesHotMilk": 0,
+      "favouriteCapsuleId": -1,
+      "sequence": {
+        "index_0": 2,
+        "index_1": 3,
+        "index_2": 4,
+        "index_3": 0,
+        "index_4": 0
+  }
+}
